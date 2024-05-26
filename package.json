@@ -1,0 +1,23 @@
+{
+  "name": "professional-backend",
+  "version": "1.0.0",
+  "description": "This is a backend to like big companies backends structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javed-Shekh777/complete_backend.git"
+  },
+  "keywords": [
+    "Professional",
+    "Backend"
+  ],
+  "author": "Javed Akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javed-Shekh777/complete_backend/issues"
+  },
+  "homepage": "https://github.com/Javed-Shekh777/complete_backend#readme"
+}
